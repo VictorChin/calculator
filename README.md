@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-https://dev.azure.com/vc20210301/Lab6B/_apis/build/status/VictorChin.calculator?branchName=VictorChin-patch-1https://dev.azure.com/vc20210301/Lab6B/_apis/build/status/VictorChin.calculator?branchName=VictorChin-patch-1
+[![Build Status](https://dev.azure.com/vc20210301/Lab6B/_apis/build/status/VictorChin.calculator?branchName=VictorChin-patch-1)](https://dev.azure.com/vc20210301/Lab6B/_build/latest?definitionId=5&branchName=VictorChin-patch-1)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
