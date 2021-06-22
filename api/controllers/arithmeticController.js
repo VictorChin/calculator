@@ -12,7 +12,7 @@ exports.calculate = function(req, res) {
 
   var operations = {
     //using the + operator to treate a and b as numbers
-    'add':      function(a,b) { return a + -b },
+    'add':      function(a,b) { return +a + b },
     //fix add
     'subtract': function(a,b) { return a - b },
     'multiply': function(a,b) { return a * b },
